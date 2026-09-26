@@ -21,4 +21,4 @@ We experimented with different input methods, including a button and a rotating 
 
 ## Project photo
 
-![Arduino controller setup](controller-setup.jpg)
+![Arduino controller setup](controller-setup.JPG)
