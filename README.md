@@ -22,3 +22,9 @@ We experimented with different input methods, including a button and a rotating 
 ## Project photo
 
 ![Arduino controller setup](controller-setup.JPG)
+
+## Demo
+
+[Watch the controller in action](controller-demo.mov)
+
+The controller detects the rotation of the physical input and triggers the dinosaur to jump once the input reaches the required position.
