@@ -6,9 +6,9 @@ This was a STEM project at Lutheran High School of Indianapolis in April 2025. I
 
 ## How it worked
 
-We started by using an LED to check whether the circuit was detecting an input correctly. Once that worked, we connected the controller to the game so a physical input could make the dinosaur jump.
+We started by using an LED to check whether the circuit was detecting an input correctly. We then connected the controller to the game so a physical input could make the dinosaur jump.
 
-We tried a few different input methods, including a button and a rotating/moving component. After a lot of testing and troubleshooting, we got the controller working and were able to use a physical input to control the jump.
+We experimented with different input methods, including a button and a rotating component. In the final setup, twisting the metal component past a certain angle was detected by the Arduino and triggered the dinosaur to jump.
 
 ## What I used
 
@@ -21,4 +21,4 @@ We tried a few different input methods, including a button and a rotating/moving
 
 ## Project photo
 
-![Arduino Dino Game Controller](images/controller.jpg)
+![Arduino controller setup](controller-setup.jpg)
